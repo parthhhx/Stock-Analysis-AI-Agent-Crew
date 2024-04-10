@@ -32,11 +32,6 @@ mv ././Stock-Analysis-AI-Agent-Crew stock-analysis-crew
 conda create -n stock-analysis-crew python=3.10 -y
 ```
 
-```bash
-
-```
-
-
 ### STEP 02- install all the dependencis
 ```bash
 poetry install --no-root
