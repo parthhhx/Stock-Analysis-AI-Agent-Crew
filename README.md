@@ -44,9 +44,11 @@ poetry install --no-root
 
 
 
-### STEP 02- SET API Keys in env file 
+### STEP 03- SET API Keys in env file 
+
 ```bash
-poetry install --no-root
+#set api keys in .env file
+#ie: BROWSERLESS_API_KEY=756209
 ```
 
 ```bash
